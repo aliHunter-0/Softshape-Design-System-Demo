@@ -1,0 +1,463 @@
+{
+  "global": {
+    "sf": {
+      "text": {
+        "en": {
+          "display-large1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "64px",
+              "fontSize": "57px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Weight of display large",
+            "type": "typography"
+          },
+          "display-large2": {
+            "value": {
+              "fontFamily": "Poopins",
+              "fontWeight": "Medium",
+              "lineHeight": "64px",
+              "fontSize": "57px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Weight of display large",
+            "type": "typography"
+          },
+          "display-large3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "64px",
+              "fontSize": "57px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Weight of display large",
+            "type": "typography"
+          },
+          "display-medium1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "52px",
+              "fontSize": "45px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Weight of display medium",
+            "type": "typography"
+          },
+          "display-medium2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "52px",
+              "fontSize": "45px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Weight of display medium",
+            "type": "typography"
+          },
+          "display-medium3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "52px",
+              "fontSize": "45px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of display medium",
+            "type": "typography"
+          },
+          "display-small1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "44px",
+              "fontSize": "36px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Wieght of display small",
+            "type": "typography"
+          },
+          "display-small2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "44px",
+              "fontSize": "36px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of display small",
+            "type": "typography"
+          },
+          "display-small3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "44px",
+              "fontSize": "36px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of display small",
+            "type": "typography"
+          },
+          "headline-large1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "40px",
+              "fontSize": "32px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Wieght of headline large",
+            "type": "typography"
+          },
+          "headline-large2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "40px",
+              "fontSize": "32px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of headline large",
+            "type": "typography"
+          },
+          "headline-large3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "40px",
+              "fontSize": "32px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of headline large",
+            "type": "typography"
+          },
+          "headline-medium1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "36px",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Wieght of headline medium",
+            "type": "typography"
+          },
+          "headline-medium2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "36px",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of headline medium",
+            "type": "typography"
+          },
+          "headline-medium3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "36px",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of headline medium",
+            "type": "typography"
+          },
+          "headline-small1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "32px",
+              "fontSize": "24px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Wieght of headline small",
+            "type": "typography"
+          },
+          "headline-small2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "32px",
+              "fontSize": "24px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of headline small",
+            "type": "typography"
+          },
+          "headline-small3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "32px",
+              "fontSize": "24px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of headline small",
+            "type": "typography"
+          },
+          "title-large1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Regular",
+              "lineHeight": "28px",
+              "fontSize": "22px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Regular Wieght of title large",
+            "type": "typography"
+          },
+          "title-large2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "28px",
+              "fontSize": "22px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of title large",
+            "type": "typography"
+          },
+          "title-large3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "28px",
+              "fontSize": "22px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of title large",
+            "type": "typography"
+          },
+          "title-medium1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "letterSpacing": "0.15%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of title medium",
+            "type": "typography"
+          },
+          "title-medium2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "letterSpacing": "0.15%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of title medium",
+            "type": "typography"
+          },
+          "title-medium3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Bold",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "letterSpacing": "0.15%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Bold Wieght of title medium",
+            "type": "typography"
+          },
+          "title-small1": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Medium",
+              "lineHeight": "20px",
+              "fontSize": "14px",
+              "letterSpacing": "0.1%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Medium Wieght of title small",
+            "type": "typography"
+          },
+          "title-small2": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "SemiBold",
+              "lineHeight": "20px",
+              "fontSize": "14px",
+              "letterSpacing": "0.1%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is SemiBold Wieght of title small",
+            "type": "typography"
+          },
+          "title-small3": {
+            "value": {
+              "fontFamily": "Poppins",
+              "fontWeight": "Bold",
+              "lineHeight": "20px",
+              "fontSize": "14px",
+              "letterSpacing": "0.1%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "As Typed"
+            },
+            "description": "This is Bold Wieght of title small",
+            "type": "typography"
+          }
+        }
+      },
+      "color": {
+        "primary": {
+          "value": "#288ECA",
+          "description": "This is the main primary color",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "primary-container": {
+          "value": "#5AC0FC",
+          "type": "color"
+        },
+        "on-primary-container": {
+          "value": "#0066A2",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#E79C28",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "secondary-container": {
+          "value": "#FFCE5A",
+          "type": "color"
+        },
+        "on-secondary-container": {
+          "value": "#BF7400",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#4FD1C5",
+          "type": "color"
+        },
+        "on-tertiary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "tertiary-container": {
+          "value": "#B3FFFF",
+          "type": "color"
+        },
+        "on-tertiary-container": {
+          "value": "#139589",
+          "type": "color"
+        },
+        "background": {
+          "value": "#FFFBFE",
+          "type": "color"
+        },
+        "on-background": {
+          "value": "#1C1B1F",
+          "type": "color"
+        },
+        "error": {
+          "value": "#B3261E",
+          "type": "color"
+        },
+        "on-error": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "error-container": {
+          "value": "#F9DEDC",
+          "type": "color"
+        },
+        "on-error-container": {
+          "value": "#410E0B",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
